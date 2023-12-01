@@ -5,7 +5,9 @@ You can read about this puzzle and many more on [Advent of Code](https://advento
 ## How to use
 
 ```
-git clone 
+git clone https://github.com/ColmiiK/Advent_of_Code_2023.git
+cd Advent_of_Code_2023/day_1
+make
 ```
 
 I used my own `libft` library that I created in my first project in **42 Málaga** for this puzzle. You can find it [here](https://github.com/ColmiiK/libft)
